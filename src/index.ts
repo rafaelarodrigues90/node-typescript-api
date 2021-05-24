@@ -1,1 +1,1 @@
-console.debug("index");
+console.debug('index');
